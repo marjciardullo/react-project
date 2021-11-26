@@ -1,0 +1,68 @@
+[
+  {
+    "Rua": "Rua dos Brigadeiros",
+    "Numero": "156",
+    "Bairro": "Limoeiro",
+    "Cidade": "Santos"
+  },
+  {
+    "Rua": "Avenida das Maldivas",
+    "Numero": "1815",
+    "Bairro": "Vila Ensolarada",
+    "Cidade": "Santos"
+  },
+  {
+    "Rua": "Rua Senhor Carvalho Pereira",
+    "Numero": "203",
+    "Bairro": "Pastos Verdes",
+    "Cidade": "São Vicente"
+  },
+  {
+    "Rua": "Avenida José Fernandino Cunha",
+    "Numero": "72",
+    "Bairro": "Tremendoso",
+    "Cidade": "Santos"
+  },
+  {
+    "Rua": "Rua das Tartarugas Ambulantes",
+    "Numero": "387",
+    "Bairro": "Verídico",
+    "Cidade": "Santos"
+  },
+  {
+    "Rua": "Rua dos Azulejos Azuis",
+    "Numero": "100",
+    "Bairro": "Barroso",
+    "Cidade": "Santo André"
+  },
+  {
+    "Rua": "Rua Céu Azul",
+    "Numero": "2053",
+    "Bairro": "Plátanos",
+    "Cidade": "Guarujá"
+  },
+  {
+    "Rua": "Avenida Desaconselheiro Tebas",
+    "Numero": "21",
+    "Bairro": "Monge Humberto",
+    "Cidade": "Praia Grande"
+  },
+  {
+    "Rua": "Avenida Zuleica Mendes",
+    "Numero": "862",
+    "Bairro": "Calipso",
+    "Cidade": "Praia Grande"
+  },
+  {
+    "Rua": "Rua Marechal Coronel",
+    "Numero": "202",
+    "Bairro": "Belverdes",
+    "Cidade": "Guarujá"
+  },
+  {
+    "Rua": "Rua Princesa Isabela Silva",
+    "Numero": "36",
+    "Bairro": "Pardal Vinheiro",
+    "Cidade": "Cubatão"
+  }
+]

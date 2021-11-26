@@ -1,0 +1,17 @@
+.body p {
+	max-width: 900px;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+.strong {
+	font-weight: bold;
+	background-color: #f2c80f;
+	padding: 3px 5px;
+	border-radius: 5px;
+}
+
+h2 {
+	align-self: left;
+}

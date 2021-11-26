@@ -1,0 +1,58 @@
+.locale {
+	margin: 20px;
+    border-radius: 5px;
+    /*border: 2px solid #242526;*/
+    padding: 25px;
+    background-color: #f2f2f2;
+    box-shadow: 7px 10px 6px -7px rgba(0,0,0,0.19);
+}
+
+.locale-street {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.locale-neighborhood {
+	font-size: 17px;
+}
+
+.locale-city {
+	font-size: 15px;
+}
+
+.locales-buttons {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.locales-buttons button {
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	width: 120px;
+	height: 50px;
+}
+
+.locales-buttons .MuiButton-containedSecondary {
+	color: #000;
+	background-color: #f2c80f;
+    border: 1px solid rgba(242, 200, 15, 0.5);
+}
+
+.locales-buttons .MuiButton-containedSecondary:hover {
+	color: #000;
+	background-color: #ffd281;
+    border: 1px solid rgba(242, 200, 15, 0.5);
+}
+
+.locales-buttons .MuiButton-outlinedSecondary {
+	color: #f2c80f;
+    border: 1px solid rgba(242, 200, 15, 0.5);
+}
+
+.locales-buttons .MuiButton-outlinedSecondary:hover {
+	color: #f2c80f;
+	background-color: #fff3e5;
+    border: 1px solid rgba(242, 200, 15, 1);
+}

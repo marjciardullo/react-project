@@ -1,0 +1,138 @@
+[
+  {
+    "Nome": "Tênis Nike Downshifter 11",
+    "Genero": "Masculino",
+    "Marca": "Nike",
+    "Cor": ["Preto", "Cinza", "Azul", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-11-masculino/02/HZM-5208-002/HZM-5208-002_zoom1.jpg?ts=1630601029&",
+    "Tamanho": [38, 39, 41, 42],
+    "Promocao": true
+  },
+
+  {
+    "Nome": "Tênis Nike Legend Essential 2",
+    "Genero": "Masculino",
+    "Marca": "Nike",
+    "Cor": ["Preto", "Azul", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-legend-essential-2-masculino/26/HZM-4400-026/HZM-4400-026_zoom1.jpg?ts=1630603198&",
+    "Tamanho": [38, 39, 41, 42],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Adidas Breaknet Brilho",
+    "Genero": "Feminino",
+    "Marca": "Adidas",
+    "Cor": ["Rosa", "Branco", "Verde"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-legend-essential-2-masculino/26/HZM-4400-026/HZM-4400-026_zoom1.jpg?ts=1630603198&",
+    "Tamanho": [34, 35, 36, 37, 39],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Adidas Coreracer",
+    "Genero": "Feminino",
+    "Marca": "Adidas",
+    "Cor": ["Preto", "Rosa", "Cinza"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-feminino/93/NQQ-4636-793/NQQ-4636-793_zoom1.jpg?ts=1616427413&",
+    "Tamanho": [34, 35, 36],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Adidas Runfalcon",
+    "Genero": "Feminino",
+    "Marca": "Adidas",
+    "Cor": ["Roxo", "Branco", "Cinza"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-legend-essential-2-masculino/26/HZM-4400-026/HZM-4400-026_zoom1.jpg?ts=1630603198&",
+    "Tamanho": [34, 35],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Olympikus Starter",
+    "Genero": "Unissex",
+    "Marca": "Olympikus",
+    "Cor": ["Preto", "Azul"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-olympikus-starter/79/D22-4037-879/D22-4037-879_zoom1.jpg?ts=1601382621&",
+    "Tamanho": [36, 37, 39, 42],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Mizuno EZ Flex 2",
+    "Genero": "Unissex",
+    "Marca": "Mizuno",
+    "Cor": ["Azul", "Branco", "Cinza"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-mizuno-ez-flex-2-masculino/66/D16-4581-266/D16-4581-266_zoom1.jpg?ts=1570129001&",
+    "Tamanho": [35, 36, 37, 41, 42],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Nike Air Max Infinity 2",
+    "Genero": "Feminino",
+    "Marca": "Nike",
+    "Cor": ["Vermelho", "Verde", "Preto"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-infinity-2-feminino/54/HZM-5152-054/HZM-5152-054_zoom1.jpg?ts=1626300446&",
+    "Tamanho": [35, 36],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Converse All Star Ct As Core Ox",
+    "Genero": "Unissex",
+    "Marca": "Converse",
+    "Cor": ["Preto", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-converse-all-star-ct-as-core-ox/02/D26-0147-002/D26-0147-002_zoom1.jpg?ts=1587555740&",
+    "Tamanho": [36, 37, 40, 42],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Converse Chuck 70",
+    "Genero": "Unissex",
+    "Marca": "Converse",
+    "Cor": ["Verde", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-converse-chuck-70-verde/60/D26-5745-060/D26-5745-060_zoom1.jpg?ts=1634859974&",
+    "Tamanho": [36, 37, 39],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis All Star Converse Chuck Taylor HI",
+    "Genero": "Unissex",
+    "Marca": "Converse",
+    "Cor": ["Vermelho", "Preto"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-all-star-converse-chuck-taylor-hi-cano-alto-lona-ct0004/88/D26-5481-788/D26-5481-788_zoom1.jpg?ts=1624625382&",
+    "Tamanho": [37, 39],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Nike Downshifter 11",
+    "Genero": "Masculino",
+    "Marca": "Nike",
+    "Cor": ["Preto", "Cinza", "Azul", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-11-masculino/02/HZM-5208-002/HZM-5208-002_zoom1.jpg?ts=1630601029&",
+    "Tamanho": [38, 39, 41, 42],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Nike Air Max Infinity 2",
+    "Genero": "Feminino",
+    "Marca": "Nike",
+    "Cor": ["Vermelho", "Verde", "Preto"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-infinity-2-feminino/54/HZM-5152-054/HZM-5152-054_zoom1.jpg?ts=1626300446&",
+    "Tamanho": [35, 36],
+    "Promocao": false
+  },
+  {
+    "Nome": "Tênis Converse Chuck 70",
+    "Genero": "Unissex",
+    "Marca": "Converse",
+    "Cor": ["Verde", "Branco"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-converse-chuck-70-verde/60/D26-5745-060/D26-5745-060_zoom1.jpg?ts=1634859974&",
+    "Tamanho": [36, 37, 39],
+    "Promocao": true
+  },
+  {
+    "Nome": "Tênis Olympikus Starter",
+    "Genero": "Unissex",
+    "Marca": "Olympikus",
+    "Cor": ["Preto", "Azul"],
+    "imagem": "https://static.netshoes.com.br/produtos/tenis-olympikus-starter/79/D22-4037-879/D22-4037-879_zoom1.jpg?ts=1601382621&",
+    "Tamanho": [36, 37, 39, 42],
+    "Promocao": false
+  }
+]
